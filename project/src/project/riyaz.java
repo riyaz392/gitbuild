@@ -12,6 +12,7 @@ public class riyaz {
 		 driver.manage().window().maximize();
 		 driver.close();
 		 System.out.println("riyaz");
+		 System.out.println("fayaz");
 
 
 	}
